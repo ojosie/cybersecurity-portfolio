@@ -18,4 +18,3 @@ It does not include copied Forage model answers, private task solutions, or conf
 - Area: Cybersecurity
 - Level: Introductory
 - Main focus: Log analysis and breach investigation
-- Status: In progress
