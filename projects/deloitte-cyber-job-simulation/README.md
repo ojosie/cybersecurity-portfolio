@@ -1,4 +1,4 @@
-# Deloitte Australia Cyber Job Simulation – Case Study
+# Deloitte Australia Cybersecurity Job Simulation – Case Study
 
 ## Overview
 
